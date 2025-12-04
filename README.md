@@ -7,7 +7,6 @@ A fun and interactive web project that analyzes any date you enter and gives you
 - A historical event that happened on that day  
 - Random personality modes (Serious, Romantic, Savage, Motivational, Prophet, Baby Mode and more)  
 - A color picker that instantly changes the theme accents  
-- Light/Dark theme toggle  
 - Fun statements for a unique experience every time  
 
 This project is designed to be both educational and entertaining, combining JavaScript logic with creative UI features.
@@ -21,6 +20,7 @@ Enter any date in **dd/mm/yyyy** or **yyyy-mm-dd** format and get the exact week
 
 ### 2. Days Passed  🕰️
 Calculates how many days have passed since the selected date.
+Calculates how many days remaining to reach the selected date.
 
 ### 3. Historical Event  ⭐
 Shows a pre-loaded historical event tied to that calendar date.
@@ -31,7 +31,6 @@ The app randomly picks a personality for each result:
 - Romantic  
 - Savage  
 - Motivational  
-- Prophet  
 - Baby Mode  
 - And more…
 
@@ -56,11 +55,17 @@ Works smoothly on desktop and mobile.
 
 ---
 
-
 ## 🤝 Contributing
 
 Pull requests are welcome!
 If you'd like to add more personality modes, events, or animations, feel free to contribute.
+
+---
+
+📜 License
+
+This project is open-source under the MIT License.
+Use it, modify it, or build on it freely.
 
 ---
 
