@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Date Analyzer</title>
+    <link rel="stylesheet" href="date.css">
+</head>
+<body>
+
+<div class="container">
+    <h1 id="mainTitle">Smart Date Analyzer</h1>
+    <p>Enter a date (dd/mm/yyyy or yyyy-mm-dd):</p>
+
+    <input type="text" id="dateInput" placeholder="e.g. 07/02/2025 or 2025-02-07">
+    <button id="analyzeBtn" onclick="analyzeDate()">Analyze</button>
+
+    <p id="result"></p>
+    <p id="additional"></p>
+    <p id="history"></p>
+
+    <hr>
+
+
+    <button id="funModeBtn" onclick="randomMode()">Random Mode</button>
+
+    <br><br>
+
+    <label>Pick a color:</label>
+    <input type="color" id="colorPicker" onchange="applyCustomColor()">
+</div>
+
+<script src="date.js"></script>
+</body>
+</html>
