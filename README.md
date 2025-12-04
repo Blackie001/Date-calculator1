@@ -1,18 +1,3 @@
-🕰️ Number of days passed since that date
-
-⭐ A historical event that happened the same day
-
-🤖 Random personality modes (Serious, Romantic, Savage, Motivational, Prophet, Baby Mode & more)
-
-🎨 Live color picker that changes your page accents instantly
-
-🌗 Light / Dark theme toggle
-
-💬 Fun and inspirational lines to keep the experience unique every time
-
-
-
-
 # Smart Date Analyzer
 
 A fun and interactive web project that analyzes any date you enter and gives you:
@@ -77,9 +62,9 @@ Works smoothly on desktop and mobile.
 Pull requests are welcome!
 If you'd like to add more personality modes, events, or animations, feel free to contribute.
 
--
+---
 
-## Installation
+## How to view
 
 Clone the repository:
 
