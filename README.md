@@ -1,4 +1,4 @@
-# Smart Date Analyzer
+# 🌹 Smart Date Analyzer
 
 A fun and interactive web project that analyzes any date you enter and gives you:
 
@@ -13,7 +13,7 @@ This project is designed to be both educational and entertaining, combining Java
 
 ---
 
-## Features
+## ❤️ Features
 
 ### 1. Day of the Week  
 Enter any date in **dd/mm/yyyy** or **yyyy-mm-dd** format and get the exact weekday.
